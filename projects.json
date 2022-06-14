@@ -1,0 +1,15 @@
+[
+    {
+        "name": "drum-machine",
+        "live": "",
+        "git": "https://github.com/Trevor-F83/drum-machine",
+        "image": "https://user-images.githubusercontent.com/103761476/168456672-ffa7c912-ad28-4aea-a151-e6e7786b4eff.png"
+    },
+
+    {
+        "name": "TrailsTracker",
+        "live": "https://trailstracker-app.herokuapp.com/",
+        "git": "https://github.com/Trevor-F83/TrailsTracker",
+        "image": "https://user-images.githubusercontent.com/103761476/171731559-a5c11a95-af58-4220-ba98-6ff8a7ae6f53.png"
+    }
+]
